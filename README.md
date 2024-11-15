@@ -80,13 +80,13 @@ No desafio proposto, eu automatizo o processo de download, consolidação e aná
      ![Taxa Indicativa IPCA +](output/IPCA+.png)
 
    ### Consultas SQL:
-     - **Consulta 1**: Quantidade de debêntures listadas no último dia disponível.  
+     - **Consulta 1**
        ![Consulta 1](output/consulta1.png)
 
-     - **Consulta 2**: Duration média das debêntures nos últimos 5 dias úteis.  
+     - **Consulta 2**
        ![Consulta 2](output/consulta2.png)
 
-     - **Consulta 3**: Códigos únicos de todas as debêntures emitidas pela empresa “VALE S/A”.  
+     - **Consulta 3** 
        ![Consulta 3](output/consulta3.png)
 
 ---
