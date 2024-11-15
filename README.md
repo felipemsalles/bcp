@@ -74,12 +74,12 @@ No desafio proposto, eu automatizo o processo de download, consolidação e aná
      ![Taxa Indicativa DI +](output/DI+.png)
 
    - **% do DI**  
-     ![Taxa Indicativa % do DI](output/% do DI.png)
+     ![Taxa Indicativa % do DI](output/percentDI.png)
 
    - **IPCA +**  
      ![Taxa Indicativa IPCA +](output/IPCA+.png)
 
-   ### Consultas SQL**:
+   ### Consultas SQL:
      - **Consulta 1**: Quantidade de debêntures listadas no último dia disponível.  
        ![Consulta 1](output/consulta1.png)
 
