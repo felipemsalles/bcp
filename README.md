@@ -71,21 +71,27 @@ No desafio proposto, eu automatizo o processo de download, consolidação e aná
 
   
    - **DI +**  
+
      ![Taxa Indicativa DI +](output/DI+.png)
 
    - **% do DI**  
+
      ![Taxa Indicativa % do DI](output/percentDI.png)
 
    - **IPCA +**  
+
      ![Taxa Indicativa IPCA +](output/IPCA+.png)
 
    - **Consulta 1**
+
      ![Consulta 1](output/consulta1.png)
 
    - **Consulta 2**
+
      ![Consulta 2](output/consulta2.png)
 
    - **Consulta 3** 
+   
      ![Consulta 3](output/consulta3.png)
 
 ---
